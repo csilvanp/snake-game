@@ -1,2 +1,3 @@
-# snake-game
-Simple snake game, build with HTML, CSS and JavaScript. 
+# Snake Game 🐍
+Simple snake game, build with HTML, CSS and JavaScript.
+
