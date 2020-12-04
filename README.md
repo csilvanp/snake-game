@@ -1,4 +1,5 @@
 # Snake Game 🐍
 Simple snake game, build with HTML, CSS and JavaScript.
 
-http://cauasilva.me/snake-game
+### Link for the project:
+  - http://cauasilva.me/snake-game/
